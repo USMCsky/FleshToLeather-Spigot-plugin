@@ -6,3 +6,12 @@
 
 # These are Windows script files and should use crlf
 *.bat           text eol=crlf
+
+# Exclude generated/site artifacts from language stats
+docs/** linguist-generated=true
+site/** linguist-generated=true
+target/** linguist-generated=true
+build/** linguist-generated=true
+
+# If you have specific generated html files:
+*.html linguist-generated=true
