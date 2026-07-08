@@ -1,7 +1,9 @@
 # FleshToLeather-Spigot-plugin
-![Spigot](https://img.shields.io/badge/Spigot-Plugin-orange?style=for-the-badge)
-![Minecraft](https://img.shields.io/badge/Minecraft-Java%20Edition-3C8527?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+[![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://adoptium.net/)
+[![Spigot API](https://img.shields.io/badge/Spigot%20API-1.21-blue.svg)](https://www.spigotmc.org/wiki/spigot-plugin-development/)
+[![Last Commit](https://img.shields.io/github/last-commit/USMCsky/SkyMap_Spigot_Plugin)](https://github.com/USMCsky/SkyMap_Spigot_Plugin/commits/master)
+[![Repo Size](https://img.shields.io/github/repo-size/USMCsky/SkyMap_Spigot_Plugin)](https://github.com/USMCsky/SkyMap_Spigot_Plugin)
+[![Author](https://img.shields.io/badge/Author-USMCsky-00bcd4.svg)](https://github.com/USMCsky)
 ![Author](https://img.shields.io/badge/Author-USMCsky-1f6feb?style=for-the-badge)
 
 ## Definition
