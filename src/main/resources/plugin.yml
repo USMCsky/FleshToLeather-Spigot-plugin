@@ -1,0 +1,8 @@
+name: FleshToLeather
+version: '${version}'
+
+main: com.USMCsky
+api-version: '1.21'
+
+authors: [ USMCsky ]
+website: https://www.github.com/usmcsky
