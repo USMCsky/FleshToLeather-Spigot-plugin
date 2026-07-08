@@ -4,7 +4,6 @@
 [![Last Commit](https://img.shields.io/github/last-commit/USMCsky/SkyMap_Spigot_Plugin)](https://github.com/USMCsky/SkyMap_Spigot_Plugin/commits/master)
 [![Repo Size](https://img.shields.io/github/repo-size/USMCsky/SkyMap_Spigot_Plugin)](https://github.com/USMCsky/SkyMap_Spigot_Plugin)
 [![Author](https://img.shields.io/badge/Author-USMCsky-00bcd4.svg)](https://github.com/USMCsky)
-![Author](https://img.shields.io/badge/Author-USMCsky-1f6feb?style=for-the-badge)
 
 ## Definition
 **FleshToLeather** is a Spigot plugin that converts rotten flesh into leather, giving players a practical way to recycle mob drops into useful crafting material.
