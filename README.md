@@ -14,4 +14,6 @@
 - **Purpose:** Turn rotten flesh into leather
 
 ## Usage
-Drop into your plugins folder on any paper/spigot/bukkit server that uses 1.21.1 Minecraft. 
+Drop into your plugins folder on any paper/spigot/bukkit server. 
+Spigot API 1.21.11-R0.1-SNAPSHOT
+Minecraft 1.21.x servers matching the declared API version
